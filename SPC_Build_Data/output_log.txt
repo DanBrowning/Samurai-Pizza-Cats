@@ -1,0 +1,227 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 600 (ID=0xdf8)
+    Vendor:   NVIDIA
+    VRAM:     963 MB
+    Driver:   21.21.13.7290
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\dan.browning\Desktop\Samurai PC V3\Samurai PC V2\Samurai PC\Samurai PC\Samurai Pizza Cats\SPC_Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 29.705853 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.940415 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 65.452789 ms (FindLiveObjects: 0.030335 ms CreateObjectMapping: 0.031103 ms MarkObjects: 13.594366 ms  DeleteObjects: 51.795834 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342911 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 0.326783 ms (FindLiveObjects: 0.030335 ms CreateObjectMapping: 0.035711 ms MarkObjects: 0.251135 ms  DeleteObjects: 0.009215 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.578687 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1351.
+Total: 0.413567 ms (FindLiveObjects: 0.082175 ms CreateObjectMapping: 0.035327 ms MarkObjects: 0.284543 ms  DeleteObjects: 0.010751 ms)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default speeding to 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default speeding to 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default speeding to 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default projectileFireRate to 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default projectileForce to 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default speeding to 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default speeding to 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default speeding to 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default speeding to 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Default speeding to 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+health was not set. defaulting to 5.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.219519 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 0.456191 ms (FindLiveObjects: 0.034559 ms CreateObjectMapping: 0.040703 ms MarkObjects: 0.263039 ms  DeleteObjects: 0.117119 ms)
+
+Quit Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 68a34 -> priority: 1 

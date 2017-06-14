@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samurai Pizza Cats.Plugins", "Samurai Pizza Cats.Plugins.csproj", "{AAD715E8-B3CB-A84B-BBB9-25DBCBF9D5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samurai Pizza Cats", "Samurai Pizza Cats.csproj", "{1DC370D7-9B54-E415-BB7E-8C46E20620A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samurai Pizza Cats.Editor.Plugins", "Samurai Pizza Cats.Editor.Plugins.csproj", "{0DCDFBAD-7D01-B77E-D431-2657D7194841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD715E8-B3CB-A84B-BBB9-25DBCBF9D5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD715E8-B3CB-A84B-BBB9-25DBCBF9D5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD715E8-B3CB-A84B-BBB9-25DBCBF9D5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD715E8-B3CB-A84B-BBB9-25DBCBF9D5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC370D7-9B54-E415-BB7E-8C46E20620A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC370D7-9B54-E415-BB7E-8C46E20620A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC370D7-9B54-E415-BB7E-8C46E20620A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC370D7-9B54-E415-BB7E-8C46E20620A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCDFBAD-7D01-B77E-D431-2657D7194841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCDFBAD-7D01-B77E-D431-2657D7194841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCDFBAD-7D01-B77E-D431-2657D7194841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCDFBAD-7D01-B77E-D431-2657D7194841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
